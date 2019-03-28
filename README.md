@@ -13,6 +13,10 @@ yarn install
 
 Run watcher:
 
+```bash
+yarn dev
+```
+
 ## Request/response example
 
 Request:
